@@ -1,0 +1,8 @@
+Alerta para cuando se acabe el free tier y presupuestos
+
+billing - cost management - budgets
+
+se fija la alarma de presupuesto
+
+
+
